@@ -15,4 +15,7 @@ http://github/jgrossh2/Horiseon
  *HTML
  *CSS
 
+ # Contributions
+ Created by Joanna Grosshans, any questions please contact <joannagrosshans2@gmail.com>
+
  
