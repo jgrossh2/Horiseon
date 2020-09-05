@@ -11,4 +11,8 @@ Horiseon is a marketing agency looking to increase accessibility across it's web
 # Links
 http://github/jgrossh2/Horiseon
 
+# Technologies used
+ *HTML
+ *CSS
 
+ 
