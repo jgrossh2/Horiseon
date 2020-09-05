@@ -5,7 +5,12 @@
 Horiseon is a marketing agency looking to increase accessibility across it's webpage. The links throughout the page allow the consumer to connect to different sections of company benefits. In order to increase accessibility and increase Google search potential, descriptions of each image were added. 
 
 # Image 
-""![Horiseon webpage](./Develop/assets/images/webpage-image.png)""
+![Horiseon navigation bar and opening image of employees working at a desk.](./assets/images/webpage-image.png) <br>
+![Horiseon search engine optimization and online reputation management links.](./assets/images/webpage-image-2.png) <br>
+![Horiseon onlin reputation management and social media marketing links.](./assets/images/webpage-image-3.png)
+
+
+
 
 
 # Links
